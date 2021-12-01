@@ -1,5 +1,5 @@
 
-from data import sonarScans
+from challenge1-data import sonarScans
 
 incCount = 0
 
