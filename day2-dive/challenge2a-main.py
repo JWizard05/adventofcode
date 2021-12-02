@@ -1,5 +1,5 @@
 
-inputFile = open("input.txt", "r")
+inputFile = open("challenge2-data.txt", "r")
 
 directionsList = []
 for line in inputFile:
